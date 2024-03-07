@@ -1,0 +1,8 @@
+business - lógica
+controller - req/res
+data - query
+model - entidades do banco
+routes - rotas
+services - libs externas
+types - tipos
+utils - funções úteis
